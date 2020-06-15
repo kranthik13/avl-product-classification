@@ -1,2 +1,3 @@
-# avl-product-classification
-My solution to product classification task
+# Product-Classification
+
+Check Report.md for more information regarding the approach.
