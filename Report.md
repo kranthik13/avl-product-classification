@@ -27,7 +27,12 @@ This was in a **particular fold_id we would not have any intersections of descri
 ## Approach 
 
 I tried to build a good pipeline which can easily integrate with many approaches.
- 
+
+I tried to write a very modular approach that's why I have notebooks associated with each step in the pipeline including the decisions taken at everypoint in time. 
+
+Also created a Final Modelling Notebook which creates the submission file for the best ensemble model.
+
+**NOTE : This notebook has very little to no-decisions information. Just recreates the submission.**
 
 The gist for the code/notebooks  : 
 
